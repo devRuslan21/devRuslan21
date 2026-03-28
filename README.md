@@ -51,10 +51,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img src="https://skillicons.dev/icons?i=golang" height="40" alt="golang logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="golang logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="golang logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  /><img width="12" />
+  <img src="https://skillicons.dev/icons?i=golang" height="40" alt="golang logo"  /><img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="golang logo"  /><img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="golang logo"  /><img width="12" />
   
 </div>
 
