@@ -27,7 +27,7 @@
 
 ### 📫 Как со мной связаться:
 
-* **Telegram:** [@isxakovdevelop]
+* **Telegram:** [@isxakovruslan]
 * **LinkedIn:** [ссылка]
 * **Город:** Ташкент, Узбекистан 🇺🇿
 
