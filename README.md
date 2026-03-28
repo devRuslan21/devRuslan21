@@ -1,16 +1,35 @@
-## Hi there 👋
+# Привет! Я Руслан 👋
 
-<!--
-**devRuslan21/devRuslan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
 
-Here are some ideas to get you started:
+Меня зовут Руслан Исхаков. Мой it путь начался в 21school от Сбербанка. Со второго сдав вступительный интенсив я постул на основное обучение и с января 26 года обучаюсь по двум направлениям: Project Managment и Golang разработка. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Мои навыки:
+
+* **Управление:** Agile, Scrum, Kanban и их артефакты.
+* **Backend:** Go (Golang), чистый C, SQL (PostgreSQL).
+* **Инструменты:** Git, Linux (Bash), Docker.
+* **ОС:** Опыт администрирования и кастомизации Linux, установка .iso образов Windows 7/8/10/11 & диструбутивов Linux.
+
+---
+
+
+---
+
+### 📊 Статистика GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=vision-friendly-dark)
+
+---
+
+### 📫 Как со мной связаться:
+
+* **Telegram:** [@isxakovdevelop]
+* **LinkedIn:** [ссылка]
+* **Город:** Ташкент, Узбекистан 🇺🇿
+
+---
+*"Если процесс нельзя автоматизировать, его нужно хотя бы оптимизировать."*
