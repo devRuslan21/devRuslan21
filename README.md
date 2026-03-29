@@ -15,7 +15,7 @@
 
 ---
 <div align="center">
-  <a href="https://t.me/isxakovruslan" target="_blank">
+  <a href="https://t.me/ruslanisxakov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   <a href="https://www.youtube.com/@ruslanPM-k8p" target="_blank">
@@ -62,8 +62,8 @@
 
 ### 📫 Как со мной связаться:
 
-* **Telegram:** [@isxakovruslan]
-* **LinkedIn:** [ссылка]
+* **Telegram:** [@ruslanisxakov]
+* **LinkedIn:** [[ссылка](https://www.linkedin.com/in/ruslan-isxakov-0b92a33bb/)]
 * **Город:** Ташкент, Узбекистан 🇺🇿
 
 ---
