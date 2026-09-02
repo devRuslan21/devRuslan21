@@ -1,70 +1,161 @@
-<br clear="both">
+# Руслан Исхаков
 
-<div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
+**Project Manager** | **System Administrator**
 
-###
+Ташкент, Узбекистан
 
-<h1 align="center">Привет! Я Руслан 👋</h1>
-
-###
-<h2 aligin="left">About me:</h2>
-
-Меня зовут Руслан Исхаков. Мой it путь начался в 21school от Сбербанка. Я начал изучение с Project Managment, так как хотел узнать как работает IT с другой стороны как управляющий, а не только как программист, чтобы иметь полное представление об IT-продуктах. После этого я продолжил обучение в сфере Golang чтобы делать свои проекты в переспективном и современном языке.
+![Telegram](https://img.shields.io/badge/Telegram-ruslanisxakov-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruslan%20Isxakov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-devRuslan21-24292F?style=flat-square&logo=github&logoColor=white)
 
 ---
-<div align="center">
-  <a href="https://t.me/ruslanisxakov" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@ruslanPM-k8p" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
 
-### 🛠 Мои навыки:
+## О себе
 
-* **Управление:** Agile, Scrum, Kanban и их артефакты.
-* **Backend:** Go (Golang), чистый C, SQL (PostgreSQL).
-* **Инструменты:** Git, Linux (Bash), Docker.
-* **ОС:** Опыт администрирования и кастомизации Linux, установка .iso образов Windows 7/8/10/11 & диструбутивов Linux.
+Меня зовут Руслан, живу в Ташкенте. В IT попал через School 21 от Сбербанка, начал с Project Management. Хотел понять, как работа устроена со стороны команды и заказчика, а не только со стороны кода
+
+Больше всего практики мне дали хакатоны. Участвовал в качестве проектного менеджера на CursorAI Hackathon, Anticorruption Hackathon, AI Lab и нескольких других. На хакатоне от Cursor'а наша команда заняла 2 место среди сотни участников. Было не легко, за 3 дня нужно собрать комманду, распределить задачи и справиться с ТЗ успевая в дедлайн
+
+Параллельно ушёл в системное администрирование, благодаря вайбкодингу. Поднимал свои виртуальные машины на hetzner, yandex cloude, microsoft azure. Недавно понял, что DevOps и системное администрирование мне нравиться даже больше чем Project Managment ))
 
 ---
 
 
----
 
-### 📊 Статистика GitHub
+## Project Management
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=vision-friendly-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=vision-friendly-dark)
 
----
+| Направление        | Что умею                                                          |
+| ------------------ | ----------------------------------------------------------------- |
+| Методологии        | Waterfall, Agile, Scrum, Kanban                                   |
+| Постановка задач   | Декомпозиция задач, ведение бэклога, приоритизация, оценка сроков |
+| Работа со спринтом | Планирование, дейли, ретроспективы, доска задач и её актуальность |
+| Требования         | Сбор требований от заказчика, ТЗ, MVP-подход                      |
+| Команда            | Распределение задач, контроль статусов, разбор блокеров           |
+| Документация       | Таймлайн проекта, статус-отчёты, ведение базы знаний              |
+| Софт               | Jira, Trello, Notion, Confluence, Miro, Google Workspace          |
 
-<h3 align="left">🛠 Технологии:</h3>
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  /><img width="12" />
-  <img src="https://skillicons.dev/icons?i=golang" height="40" alt="golang logo"  /><img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="golang logo"  /><img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="golang logo"  /><img width="12" />
-  
-</div>
-
-###
-
-### 📫 Как со мной связаться:
-
-* **Telegram:** [@ruslanisxakov]
-* **LinkedIn:** [[ссылка](https://www.linkedin.com/in/ruslan-isxakov-0b92a33bb/)]
-* **Город:** Ташкент, Узбекистан 🇺🇿
+**Хакатоны в роли Project Manager:** Cursor (2 место, около 100 участников), Anticorruption, AI Lab и другие
 
 ---
-*"Всё, что нас не убивает - делает нас сильнее."*
+
+
+
+## Системное администрирование
+
+
+| Направление      | Что умею                                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------------------- |
+| Windows Server   | Установка и базовая настройка Windows Server 2019/2022, роли сервера, общие папки и права доступа |
+| Active Directory | Домен, пользователи и группы, организационные подразделения, групповые политики (GPO)             |
+| Рабочие места    | Установка и настройка Windows 10/11, ввод в домен, учётные записи, поддержка пользователей        |
+| Облачные сервисы | Microsoft 365, Entra ID (Azure AD), Google Workspace: пользователи, почта, доступы                |
+| Облако и VM      | AWS (EC2, S3), Azure Virtual Machines: создание ВМ, доступ по SSH/RDP, правила сети               |
+| Сети             | TCP/IP, IP-адресация и подсети, DNS, DHCP, VPN, VLAN, Wi-Fi, NAT                                  |
+| Оборудование     | MikroTik (RouterOS): базовая настройка роутера, DHCP, firewall, VPN                               |
+| Виртуализация    | Hyper-V, VMware, Proxmox: создание и обслуживание виртуальных машин, снапшоты                     |
+| Бэкапы           | Правило 3-2-1, резервное копирование и восстановление, Robocopy, rsync                            |
+| Linux            | Ubuntu/Debian, работа в терминале, пользователи и права, SSH, службы, логи                        |
+| Скрипты          | PowerShell, Bash: автоматизация рутинных задач                                                    |
+| Диагностика      | Поиск неисправностей ПО и оборудования, сборка ПК, установка ОС из .iso, журналы событий          |
+
+
+---
+
+
+
+## Прочий стек
+
+
+| Технология   | Где применяю                                                     |
+| ------------ | ---------------------------------------------------------------- |
+| Docker       | Запуск и обслуживание сервисов в контейнерах, docker compose     |
+| PostgreSQL   | Базовый SQL, создание БД, запросы, бэкап и восстановление дампов |
+| Git / GitHub | Ветки, коммиты, пул-реквесты, работа в команде                   |
+| Nginx        | Раздача статики, простой reverse proxy                           |
+| Zabbix       | Базовый мониторинг серверов и оповещения                         |
+| Go, C        | Учебные проекты в Школе 21, читаю и правлю чужой код             |
+
+
+---
+
+
+
+## Технологии
+
+**Операционные системы и серверы** `средний`
+
+![ОС](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian)
+
+**Скрипты и автоматизация** `начинающий`
+
+![Скрипты](https://skillicons.dev/icons?i=powershell,bash)
+
+**Облако и виртуализация** `начинающий`
+
+![Облако](https://skillicons.dev/icons?i=aws,azure)
+
+**Контейнеры и сервисы** `начинающий`
+
+![Контейнеры](https://skillicons.dev/icons?i=docker,nginx,grafana)
+
+**Базы данных** `средний`
+
+![Базы данных](https://skillicons.dev/icons?i=postgres)
+
+**Разработка и совместная работа** `средний`
+
+![Разработка](https://skillicons.dev/icons?i=git,github,notion)
+
+**Языки программирования** `начинающий`
+
+![Языки](https://skillicons.dev/icons?i=go,c)
+
+---
+
+
+
+## Опыт и обучение
+
+**Школа 21 (Сбербанк)**
+
+Project Management, затем разработка на Go и C. Обучение по методологии peer-to-peer: командные проекты, код-ревью, дедлайны, самостоятельная декомпозиция задач.
+
+**Хакатоны**
+
+Роль Project Manager: сбор команды, распределение ролей, контроль сроков, подготовка и защита презентации перед жюри.
+
+**Практика в администрировании**
+
+Домашняя лаборатория и обслуживание рабочих станций: установка ОС, виртуальные машины, настройка сети и VPN, сервисы в Docker, PostgreSQL, скрипты на Bash и PowerShell.
+
+---
+
+
+
+## Языки
+
+- Русский: родной
+- Английский: технический, читаю документацию
+
+---
+
+
+
+## Планы на будущее
+
+Хочу вырасти в DevOps-инженера. Системное администрирование выбрал осознанно: без понимания того, как устроены серверы, сети и доступы, в DevOps идти рано.
+
+Ближайшие шаги:
+
+- закрепить Linux на уровне уверенного администрирования, углубить Bash
+- освоить CI/CD: GitHub Actions, GitLab CI, сборка и автоматический деплой
+- Kubernetes после уверенного Docker
+- инфраструктура как код: Terraform и Ansible
+- мониторинг и логирование: Zabbix, Prometheus, Grafana
+- углубиться в AWS и Azure, дойти до профильной сертификации
+
+Открыт к позициям Project Manager, системного администратора и IT support <3
+
+[Написать в Telegram](https://t.me/ruslanisxakov)
